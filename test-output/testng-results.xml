@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T18:58:57 EET" name="Default suite" finished-at="2024-08-10T19:06:02 EET" duration-ms="424811">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T18:58:57 EET" name="Default test" finished-at="2024-08-10T19:06:02 EET" duration-ms="424811">
+      <class name="testcases.testFiltering">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.testFiltering@12591ac8]" started-at="2024-08-10T18:58:57 EET" name="setUp" finished-at="2024-08-10T18:59:26 EET" duration-ms="28837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCart()[pri:0, instance:testcases.testFiltering@12591ac8]" started-at="2024-08-10T18:59:26 EET" name="addToCart" finished-at="2024-08-10T18:59:48 EET" duration-ms="22426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- testcases.testFiltering -->
+      <class name="testcases.CheckOutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CheckOutTest@1e4f4a5c]" started-at="2024-08-10T18:59:48 EET" name="setUp" finished-at="2024-08-10T19:00:17 EET" duration-ms="28703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCart()[pri:0, instance:testcases.CheckOutTest@1e4f4a5c]" started-at="2024-08-10T19:00:17 EET" name="addToCart" finished-at="2024-08-10T19:01:00 EET" duration-ms="42711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- testcases.CheckOutTest -->
+      <class name="testcases.SearchProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SearchProductTest@37313c65]" started-at="2024-08-10T19:01:00 EET" name="setUp" finished-at="2024-08-10T19:01:56 EET" duration-ms="56350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct()[pri:0, instance:testcases.SearchProductTest@37313c65]" started-at="2024-08-10T19:01:56 EET" name="searchProduct" finished-at="2024-08-10T19:01:57 EET" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- testcases.SearchProductTest -->
+      <class name="testcases.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.AddToCartTest@798162bc]" started-at="2024-08-10T19:03:29 EET" name="setUp" finished-at="2024-08-10T19:04:31 EET" duration-ms="61812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCart()[pri:0, instance:testcases.AddToCartTest@798162bc]" started-at="2024-08-10T19:04:31 EET" name="addToCart" finished-at="2024-08-10T19:06:02 EET" duration-ms="90678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- testcases.AddToCartTest -->
+      <class name="testcases.VerifyCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.VerifyCartTest@465232e9]" started-at="2024-08-10T19:01:57 EET" name="setUp" finished-at="2024-08-10T19:03:11 EET" duration-ms="73493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCart()[pri:0, instance:testcases.VerifyCartTest@465232e9]" started-at="2024-08-10T19:03:11 EET" name="verifyCart" finished-at="2024-08-10T19:03:29 EET" duration-ms="18675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+      </class> <!-- testcases.VerifyCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
